@@ -28,6 +28,10 @@ permalink: /resources
 
 ## Blog posts
 
+* [Leon Zhao](https://github.com/Leeeon233):
+  [Movable tree CRDTs and Loro's implementation](https://www.loro.dev/blog/movable-tree)
+  (July 2024)
+
 * [Zixuan Chen](https://github.com/zxch3n): 
   [Introduction to Loro's Rich Text CRDT](https://loro.dev/blog/loro-richtext)
   (January 2024)
