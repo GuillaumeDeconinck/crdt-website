@@ -233,6 +233,8 @@ Several other applications and systems also use CRDTs internally:
 
 * [Evolu](https://evolu.dev/), a local-first platform designed for privacy, ease of use, and no vendor lock-in.
 
+* [NextGraph](https://nextgraph.org) a local-first framework and app based on the Semantic Web, Linked Data and RDF, with end-to-end encryption, rich-text, collaboration and social network features. 
+
 * [Pixelboard](https://www.getpixelboardapp.com/), a collaborative whiteboarding app,
   [uses CRDTs](https://medium.com/bpxl-craft/building-a-peer-to-peer-whiteboarding-app-for-ipad-2a4c7728863e)
   to allow several people to draw at the same time.
